@@ -1,0 +1,14 @@
+* {
+      margin: 0;
+}
+
+
+section-1 {
+      background-image: url(images/image\ -\ 1\ -\ Marketing_LandingFeatured_Redesign_Mobile.webp);
+}
+
+section-1 ul {
+      display: flex;
+      list-style: none;
+      justify-content: space-evenly
+}
